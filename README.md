@@ -17,7 +17,6 @@
 
 This is an **enhanced fork** of the original [CiferTech ESP32-DIV](https://github.com/cifertech/ESP32-DIV) project with additional features across WiFi, Bluetooth, 2.4GHz, and SubGHz categories. Includes bug fixes and ESP32 core 3.x compatibility.
 
-**Version:** 3.8 Kilaz Edition
 
 ### Credits
 - **[CiferTech](https://github.com/cifertech/ESP32-DIV)** - Original ESP32-DIV project
@@ -27,46 +26,6 @@ This is an **enhanced fork** of the original [CiferTech ESP32-DIV](https://githu
 
 <div>&nbsp;</div>
 
-## New Features in KILAZ Edition
-
-### WiFi (4 new features)
-| Feature | Description |
-|---------|-------------|
-| **PMKID Capture** | Capture PMKID from RSN IE in association responses for offline cracking |
-| **Evil Twin AP** | Clone networks as open access points for security testing |
-| **Karma Attack** | Respond to all probe requests - creates APs for any SSID devices search for |
-| **WiFi Geiger** | Signal strength meter with real-time RSSI graph for specific networks |
-
-### Bluetooth (4 new features)
-| Feature | Description |
-|---------|-------------|
-| **GATT Explorer** | Connect to BLE devices and browse services/characteristics |
-| **Android Spam** | Samsung Buds/Google FastPair notification spam |
-| **Beacon Cloner** | Scan for iBeacons and clone/rebroadcast them |
-| **BLE Fuzzer** | Send malformed BLE packets for vulnerability testing |
-
-### SubGHz (7 new features)
-| Feature | Description |
-|---------|-------------|
-| **RAW Recorder** | Record unknown protocols with precise timing data and replay |
-| **Freq Scanner** | Visual spectrum analyzer across SubGHz bands |
-| **Garage Protocols** | Pre-loaded codes for Linear, Chamberlain, LiftMaster, Genie, and more |
-| **Car Key Analyzer** | Vehicle ID, button detection, virtual remote save/replay |
-| **Doorbell Trigger** | Wireless doorbell frequency presets with learn mode |
-| **Doorbell Brute** | Manufacturer-optimized doorbell brute force with prefix patterns |
-| **Multi-Freq Scan** | Rapid frequency hopping scanner across multiple SubGHz bands |
-
-<div>&nbsp;</div>
-
-## v3.3 Car Key Analyzer Update
-
-Enhanced Car Key Analyzer with comprehensive vehicle identification and virtual remote functionality:
-
-- **Vehicle Identification** — Identifies 20+ manufacturers (Toyota, Honda, Ford, GM, BMW, Mercedes, VW, Audi, etc.) by analyzing frequency, bit length, pulse timing, and protocol patterns
-- **Button Function Detection** — Automatically detects Lock, Unlock, Trunk, Panic, Remote Start, and other functions from captured signals
-- **Virtual Remote** — Save up to 8 captured signals as reusable buttons. Transmit saved signals with one button press, like a universal remote
-- **Rolling Code Analysis** — Tracks code deltas between captures to identify rolling code patterns and Keeloq protocols
-- **Multi-Region Support** — 312 MHz (Japan), 314 MHz (Japan), 315 MHz (US), 433 MHz (EU/Asia), 868 MHz (EU)
 
 <div>&nbsp;</div>
 
