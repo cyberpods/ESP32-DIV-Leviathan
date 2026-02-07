@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>ESP32-DIV v3.8 — Kilaz Edition</h1>
+  <h1>ESP32-DIV v3.8</h1>
 
   <p>
     Enhanced Wireless Security Research Toolkit
