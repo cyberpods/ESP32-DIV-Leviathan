@@ -290,7 +290,6 @@ The encoder button provides instant exit from any feature - no more "hold to exi
 ## Credits
 
 - Original project by [CiferTech](https://github.com/cifertech/ESP32-DIV)
-- KILAZ enhancements by cyberpods
 
 <div>&nbsp;</div>
 
@@ -321,18 +320,6 @@ The encoder button provides instant exit from any feature - no more "hold to exi
 - Added WiFi: Pwnagotchi Detect, Probe Flood, Ping Scanner, Station Tracker
 - Added BLE: Flipper Detect, Flipper Spam, AirTag Spoof
 - Fixed DRAM overflow, Deauth Detector crashes, menu navigation
-
-## Issues & Support
-
-Found a bug or have a feature request? Open an [Issue](https://github.com/cyberpods/ESP32-DIV-KILAZ/issues)
-
-<div>&nbsp;</div>
-
-## License
-
-Distributed under the MIT License. See LICENSE for more information.
-
-<div>&nbsp;</div>
 
 ## Disclaimer
 
