@@ -7,10 +7,7 @@
   </p>
 
 <!-- Badges -->
-<a href="https://github.com/cyberpods/ESP32-DIV-Leviathan
-" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=cyberpods&message=ESP32-DIV-Leviathan
-&color=purple&logo=github" alt="cyberpods - ESP32-DIV-Leviathan
-"></a>
+<a href="https://github.com/cyberpods/ESP32-DIV-Leviathan" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=cyberpods&message=ESP32-DIV-Leviathan&color=purple&logo=github" alt="cyberpods - ESP32-DIV-Leviathan"></a>
 
 </div>
 
